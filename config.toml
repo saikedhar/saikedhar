@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "UDS Kedhar Hugo"
+theme = "ga-hugo-theme-master"
+
+
+
+
