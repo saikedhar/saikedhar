@@ -2,13 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>UDS Kedhar Hugo</title>
-    <link>http://example.org/</link>
+    <link>http://saikedhar.netlify.com/</link>
     <description>Recent content on UDS Kedhar Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2020 22:24:52 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://saikedhar.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://saikedhar.netlify.com/portfolio/</link>
+      <pubDate>Sun, 05 Jan 2020 22:24:52 +0200</pubDate>
+      
+      <guid>http://saikedhar.netlify.com/portfolio/</guid>
+      <description>Github portfolio </description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>http://saikedhar.netlify.com/media/</link>
+      <pubDate>Sun, 05 Jan 2020 19:46:38 +0200</pubDate>
+      
+      <guid>http://saikedhar.netlify.com/media/</guid>
+      <description> Click for my Sound Cloud Profile </description>
+    </item>
+    
+    <item>
+      <title>Aboutme</title>
+      <link>http://saikedhar.netlify.com/aboutme/</link>
+      <pubDate>Sun, 05 Jan 2020 19:46:21 +0200</pubDate>
+      
+      <guid>http://saikedhar.netlify.com/aboutme/</guid>
+      <description>Hello I am Sai kedhar Uppala .I am 24 years old hail from vizag, Andhra Pradesh-India.I am Pursuing masters degree in Telecommunications from Riga Technical University,Riga-Latvia.My hobbies are playing cricket, reading books, listening to music, trekking and hiking.</description>
+    </item>
     
   </channel>
 </rss>
